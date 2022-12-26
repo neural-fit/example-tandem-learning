@@ -1,2 +1,3 @@
-# Example: tandem learning
-Learn to combine evolution and backpropagation 🚲
+<img src="https://i.imgur.com/2wKt2mk.jpg" width=300px> <b>example</b>
+
+Accompanying code for the tutorial given here: https://neuralfit.net/examples/tandem-learning/.
