@@ -4,7 +4,7 @@ import numpy as np
 import keras
 
 # Define the dataset
-x = np.linspace(0, 1, 100)
+x = np.linspace(0, 1, 100).reshape(-1,1)
 y = (x > 0.5) * 1
 
 # Create and compile the model
